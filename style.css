@@ -1,0 +1,12 @@
+h1.title {
+    color: #eeeeee;
+}
+
+div#searches {
+    background: #ececec;
+    height: 40rem;
+}
+
+div#currentWeather {
+    height: 15rem;
+}
