@@ -10,3 +10,7 @@ div#searches {
 div#currentWeather {
     height: 15rem;
 }
+
+h6 {
+    line-height: 1.75rem;
+}
