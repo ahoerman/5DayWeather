@@ -12,5 +12,11 @@ div#currentWeather {
 }
 
 h6 {
-    line-height: 1.75rem;
+    line-height: 1.75rem
+}
+
+div.day {
+    width: 7rem;
+    height: 7rem;
+    background: #3179d6;
 }
